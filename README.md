@@ -82,7 +82,7 @@
 
 ## 2、面向对象
 
-[1.抽象类与接口的区别 ]() ⭐️ ⭐️
+[1.抽象类与接口的区别 ](https://github.com/Tamicer/JavaDaily/issues/1) ⭐️ ⭐️
 
 [2.OOP思想 ]() ⭐️ ⭐️
 
