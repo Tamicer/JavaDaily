@@ -123,7 +123,7 @@
 
 ## 4、Java 虚拟机
 
-[1. JVM的构成？]()  ⭐️ ⭐️ （阿里某部门一面真题）
+[1. JVM的构成？](https://github.com/Tamicer/JavaDaily/issues/4)  ⭐️ ⭐️ （阿里某部门一面真题）
 
 [2. ClassLoader机制]()  ⭐️
 
