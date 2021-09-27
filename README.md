@@ -149,7 +149,7 @@
 [5. 说一下 synchronized 、 lock、  volatile 关键字的区别？？]() ⭐️ ⭐
 
 
-[6. volatile 和 Atomic 类？试分析它的原理和缺点？ 关键字的区别？？]()
+[6. volatile 和 Atomic 类？试分析它的原理和缺点？ 关键字的区别？？](https://github.com/Tamicer/JavaDaily/issues/5)
 
 
 [7. 说说 ThreadLocal 的使用场景？与 Synchronized 相比有什么特性？]() （京东某部门一面真题）
