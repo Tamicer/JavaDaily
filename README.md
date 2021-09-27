@@ -155,10 +155,10 @@
 [7. 说说 ThreadLocal 的使用场景？与 Synchronized 相比有什么特性？]() （京东某部门一面真题）
 
 
-[8. 说说线程池的参数构成]() （京东某部门一面真题）⭐️ ⭐
+[8. 说说线程池的参数构成](https://github.com/Tamicer/JavaDaily/issues/6) （京东某部门一面真题）⭐️ ⭐
 
 
-[9. 说说线程池的有哪些？]() （京东某部门一面真题）⭐
+[9. 说说线程池的有哪些？](https://github.com/Tamicer/JavaDaily/issues/6) （京东某部门一面真题）⭐
 
 
 
